@@ -2,7 +2,7 @@
 first use git
 
 ## 参照表
-![git-sheet](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![git-sheet](https://github.com/Bright-Hsu/learn/blob/main/git-cheat-sheet.png "git")
 
 ## 版本控制
 ### 版本回退
