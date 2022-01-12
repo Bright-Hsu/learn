@@ -1,5 +1,9 @@
 # learn
 first use git
+
+## 参照表
+![git-sheet](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+
 ## 版本控制
 ### 版本回退
 ### 管理修改
