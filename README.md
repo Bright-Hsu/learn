@@ -1,5 +1,5 @@
 # learn
-first use git
+学习使用Git
 
 ## 参照表
 ![git-sheet](https://github.com/Bright-Hsu/learn/blob/main/git-cheat-sheet.png "git")
